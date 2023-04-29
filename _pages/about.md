@@ -6,7 +6,7 @@ subtitle: Senior spatial bioinformatics analyst, Auckland Council.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_and_lizzy.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>TODO add office</p>
