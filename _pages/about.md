@@ -9,18 +9,24 @@ profile:
   image: me_and_lizzy.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>TODO add office</p>
+    <p>19th floor</p>
     <p>135 Albert Street</p>
     <p>Auckland CBD, Auckland, 1010</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I still need to do this and everything else other than deploying the empty template. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a dedicated spatial Eecologist, biodiversity modeller, and data scientist with a PhD. in computational quantitative ecology and a passion for applying cutting-edge data science, machine learning, and cloud computing techniques to address pressing ecological, conservation, environmental, and ecolomic challenges. My interdisciplinary background, strong programming skills, and extensive experience in database design and management position me as a unique resource in the field of ecology and data science.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my career, I have developed a deep understanding of spatial and temporal biodiversity patterns and their drivers at both individual and population levels. I have successfully contributed to various research projects that focus on delivering actionable insights for conservation and environmental management. My work has involved refining and extending spatially-explicit, individual-based forest dynamics models, developing resource selection models, and analyzing regional biodiversity assessments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a data-driven researcher, I have a strong interest in machine learning and cloud computing, particularly with Amazon Web Services (AWS). I have applied these skills to develop ensemble models for predicting customer demand in the retail and telecommunications sectors and have experience in designing and implementing production-ready data pipelines.
+
+Moreover, I am fascinated by the potential applications of artificial intelligence (AI) in ecology, conservation, and data science. I believe that the integration of AI technologies into ecological research can revolutionize the way we approach biodiversity conservation and management, leading to more effective, data-informed decision-making processes.
+
+In my pursuit of open science principles, I am committed to sharing knowledge and fostering collaboration within the scientific community. I actively contribute to open-source software and data platforms, ensuring that my research findings are accessible to all and can drive real-world impact. I am also also excited to help out with any open-source projects that are in need of a hand.
+
+I bring a wealth of experience, technical expertise, and a forward-thinking approach to tackling complex environmental challenges. I am always looking for new opportunities to collaborate with like-minded people and organizations. If you are interested in working with me, please get in touch.
